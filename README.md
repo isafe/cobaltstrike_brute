@@ -1,4 +1,6 @@
 ![](https://img.shields.io/github/license/isafe/cobaltstrike_brute?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/isafe/cobaltstrike_brute?style=flat-square)
+
 # cobaltstrike_brute
 Cobalt Strike Team Server Password Brute Forcer
 
